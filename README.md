@@ -1,5 +1,17 @@
 # Blog Pessoal
 
-## Objetivo
+## Tecnologias Utilizadas ⚙️
 
-- Este projeto está em desenvolvimento e tem como objetivo a prática dos conceitos aprendidos em aula, como a implementação de CRUD, compreensão dos métodos HTTP e o uso de ferramentas como Insomnia para testes de API.
+  Java: Linguagem principal para o desenvolvimento da aplicação.
+  Spring Boot: Framework para criação de aplicações Java com foco em produtividade e simplicidade.
+  Spring Security: Implementação de segurança para autenticação e autorização.
+  Insomnia: Ferramenta para testar e garantir o bom funcionamento das APIs.
+  Docker: Contêineres para facilitar o deploy e a configuração do ambiente.
+  Render: Plataforma de deploy para hospedar o blog na nuvem.
+  MySQL: Banco de dados utilizado no ambiente local.
+  PostgreSQL: Banco de dados utilizado na nuvem (Render).
+
+## Funcionalidades 🔧
+  Autenticação de usuários: Proteção de recursos através do Spring Security.
+  CRUD de postagens: Possibilidade de criar, editar e excluir posts.
+  API RESTful: Permite interação com o sistema via endpoints.
