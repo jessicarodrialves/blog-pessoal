@@ -1,4 +1,4 @@
-# Blog Pessoal
+# Portfólio Pessoal
 
 ## Tecnologias Utilizadas ⚙️
 
